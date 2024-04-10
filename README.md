@@ -1,4 +1,4 @@
-## Hi welcome to [Ryn](https://github.com/ferrenza). 👋
+## Hi welcome to [Ryn](https://github.com/ferrenza). Project 👋
 
 <h1 align="left">Programming Skills</h1>
 
