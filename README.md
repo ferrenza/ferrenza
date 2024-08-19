@@ -1,5 +1,4 @@
-### Hello World, I'm Ryn 👋
-
+### <marquee>Less talk, more work. Hello World, I'm Ryn 👋</marquee>
 - 💻 Building cool stuff as a **Discord Dev**
 - 🔍 Always on the grind, learning the latest in **Technology**
 - 💬 Reach me in discord: [Join the Party on Discord](https://discord.gg/motionime)
@@ -9,7 +8,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=ferrenza&show_icons=true&theme=dark&count_private=true" alt="Ryn's GitHub Stats" style="width: 47%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrenza&theme=dark" alt="Ryn's Streak Stats" style="width: 51%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrenza&theme=dark" alt="Ryn's Streak Stats" style="width: 50%; height: auto;" />
 </div>
 
 <div style="margin-top: 10px;">
