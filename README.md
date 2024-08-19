@@ -1,7 +1,7 @@
-### <marquee>Less talk, more work. Hello World, I'm Ryn 👋</marquee>
-- 💻 Building cool stuff as a **Discord Dev**
+### Less talk, more work. Hello World, I'm Ryn 👋
+- 💻 Build cool stuff as a **Discord Dev**
 - 🔍 Always on the grind, learning the latest in **Technology**
-- 💬 Reach me in discord: [Join the Party on Discord](https://discord.gg/motionime)
+- 💬 Reach me in discord: [Motion Ime](https://discord.gg/motionime)
 - 🤖 Check out our bots: [Mafuyu](https://top.gg/bot/1150708264607170571)
 
 ## 📊 Our Work
