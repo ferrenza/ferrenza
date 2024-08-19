@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferrenza&show_icons=true&theme=dark&count_private=true" alt="Ryn's GitHub Stats" style="width: 48%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrenza&theme=dark" alt="Ryn's Streak Stats" style="width: 48%;" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferrenza&show_icons=true&theme=dark&count_private=true" alt="Ryn's GitHub Stats" style="width: 48%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrenza&theme=dark" alt="Ryn's Streak Stats" style="width: 48%; height: auto;" />
 </div>
 
 ## 💻 Most Used Languages
