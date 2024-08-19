@@ -1,7 +1,5 @@
-## Hi welcome to [Ryn](https://github.com/ferrenza). Project 👋
+## 📊 Achievements
+![Ryn GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferrenza&show_icons=true&theme=dark&count_private=true)
 
-<h1 align="left">Programming Skills</h1>
-
-<p align="left">
-<a href=https://www.python.org><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
-</p>
+## 💻 Language Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrenza&layout=compact&theme=dark)
