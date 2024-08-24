@@ -2,7 +2,7 @@
 - 💻 Build cool stuff as a **Discord Dev**
 - 🔍 Always on the grind, learning the latest in **Technology**
 - 💬 Reach me in discord: [Motion Ime](https://discord.gg/motionime)
-- 🤖 Check out our bots: [Mafuyu](https://top.gg/bot/1150708264607170571) [Motion Ime AI](https://discord.gg/Pa4sGPaf9W)
+- 🤖 Check out our bots: [Mafuyu](https://top.gg/bot/1150708264607170571) | [Motion Ime AI](https://discord.gg/Pa4sGPaf9W)
 
 ## 📊 Our Work
 
